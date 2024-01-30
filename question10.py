@@ -1,6 +1,5 @@
 def question10_1():
     answer=False
-    #though count is a discrete data, it can be affected by noise due to sudden change in any event.
     return answer
 
 def question10_2():
